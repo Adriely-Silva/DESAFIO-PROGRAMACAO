@@ -6,7 +6,7 @@ Java, utiliando a versão 8.
 
 ## IDE
 
-Eclipse, escolhe essa IDe pois já estou familiarizada com a mesma.
+Eclipse, escolhe essa IDE pois já estou familiarizada com a mesma.
 
 ## Execução
 
