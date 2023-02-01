@@ -2,7 +2,7 @@
 
 ## Linguagem
 
-Java, utiliando a versão 8.
+Java, utilizando a versão 8.
 
 ## IDE
 
